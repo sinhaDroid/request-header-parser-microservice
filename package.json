@@ -1,5 +1,5 @@
 {
-  "name": "header-parser-r282",
+  "name": "request-header-parser-microservice",
   "version": "1.0.2",
   "description": "Lets you get the IP, language and OS for the browser making the request.",
   "main": "server.js",
@@ -8,20 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rafase282/header-parser.git"
+    "url": "git+https://github.com/sinhaDroid/request-header-parser-microservice.git"
   },
   "keywords": [
     "API",
-    "Rafase282",
+    "sinhaDroid",
+    "Deepanshu Sinha",
     "IP",
     "Header"
   ],
-  "author": "Rafael (Rafase282) Rodriguez",
+  "author": "Deepanshu Sinha (sinhaDroid)",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/Rafase282/header-parser/issues"
+    "url": "https://github.com/sinhaDroid/request-header-parser-microservice/issues"
   },
-  "homepage": "https://github.com/Rafase282/header-parser#readme",
+  "homepage": "https://github.com/sinhaDroid/request-header-parser-microservice#readme",
   "dependencies": {
     "express": "^4.13.3"
   }

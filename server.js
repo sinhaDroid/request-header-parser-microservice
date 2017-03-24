@@ -5,7 +5,7 @@ var express    = require('express');        // call express
 var app        = express();                 // define our app using express
 var routes = require('./app/routes/index.js');
     
-var port = process.env.PORT || 8080;        // set our port
+var port = process.env.PORT || 6000;        // set our port
 app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Methods", "GET");
